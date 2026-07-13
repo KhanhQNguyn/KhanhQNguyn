@@ -67,6 +67,19 @@ Designed the full database from scratch (ERD → Supabase) across 15+ normalised
 
 ---
 
+---
+
+### [Suara](https://github.com/tungvt2003/hackathon-36-hours) &nbsp; `July 2026` &nbsp; ⭐ Grab-The-Future Hackathon Top 10
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+Helped coordinate a 4-person cross-functional team during a 36-hour sprint at Grab The Future Hackathon, coordinating frontend, backend, AI, and business workstreams. Built a React Native client (17 screens) with Expo SDK 56 and TypeScript, integrating speech recognition and AI voice responses.
+
+---
+
 ### Railway Management System &nbsp; `2025` &nbsp; ⭐ Highest Score 80/100
 
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
