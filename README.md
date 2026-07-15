@@ -17,7 +17,7 @@
 ## 🎓 Education
 
 **RMIT University** — Bachelor of Software Engineering (Honours)
-`Oct 2024 – Apr 2028` · **GPA 3.2 / 4.0** · IELTS 7.5 · Ho Chi Minh City, Vietnam
+`Oct 2024 – Apr 2028` · **GPA 3.0 / 4.0** · IELTS 7.5 · Ho Chi Minh City, Vietnam
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 🚀 Selected Projects
 
-### [TicTacToang — Multiplayer Gomoku Platform](https://github.com/RMIT-Full-Stack-Development-2026A/Group1) &nbsp; `2026`
+### [TicTacToang - Multiplayer Gomoku Platform](https://github.com/RMIT-Full-Stack-Development-2026A/Group1) &nbsp; `2026`
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -46,7 +46,7 @@ Led a 5-person Scrum team (~200 GitHub issues) to ship a live platform supportin
 
 ---
 
-### [FlowGuard — Flood Early Warning Platform](https://github.com/KhanhQNguyn/flowguard) &nbsp; `2025` &nbsp; 🥇 Hack-A-Venture Champion
+### [FlowGuard - Flood Early Warning Platform](https://github.com/KhanhQNguyn/flowguard) &nbsp; `2025` &nbsp; 🥇 Hack-A-Venture Champion
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,7 +56,7 @@ Architected and delivered a full flood alert MVP in 24 hours. Fused mock IoT sen
 
 ---
 
-### [EventX — Event Management Application](https://github.com/RMIT-Vietnam-Teaching/assignment-2-build-a-backend-sgs-tut02-group2) &nbsp; `Dec 2025` &nbsp; ⭐ High Distinction 81/100
+### [EventX - Event Management Application](https://github.com/RMIT-Vietnam-Teaching/assignment-2-build-a-backend-sgs-tut02-group2) &nbsp; `Dec 2025` &nbsp; ⭐ High Distinction 81/100
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
