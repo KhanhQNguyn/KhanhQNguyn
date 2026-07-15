@@ -69,7 +69,7 @@ Designed the full database from scratch (ERD → Supabase) across 15+ normalised
 
 ---
 
-### [Suara](https://github.com/tungvt2003/hackathon-36-hours) &nbsp; `July 2026` &nbsp; ⭐ Grab-The-Future Hackathon Top 10
+### [Suara - Voice First Application](https://github.com/tungvt2003/hackathon-36-hours) &nbsp; `July 2026` &nbsp; ⭐ Grab-The-Future Hackathon Top 10
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
