@@ -16,8 +16,10 @@
 
 ## 🎓 Education
 
-**RMIT University** — Bachelor of Software Engineering (Honours)
-`Oct 2024 – Apr 2028` · **GPA 3.0 / 4.0** · IELTS 7.5 · Ho Chi Minh City, Vietnam
+**RMIT University** — Bachelor of Software Engineering (Honours) `Oct 2024 – Apr 2028` 
+· **GPA 3.0 / 4.0** 
+· IELTS 7.5 
+· Ho Chi Minh City, Vietnam
 
 ---
 
